@@ -50,7 +50,7 @@ public class AssignmentOne {
 
         }
 
-    public class MergeSortPrioritye  {
+    public class MergeSort {
 
         private final List<Integer> integers;
 
