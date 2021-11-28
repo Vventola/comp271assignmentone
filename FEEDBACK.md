@@ -1,6 +1,6 @@
 ## Feedback from Kieran
 
-**Score as of Nov 20, 2021:** n/75
+**Score as of Nov 20, 2021:** 30/75
 
 * Code does not compile for many reasons, -30 points
 * Test harness does not run.  I don't see any test here, actually, but nothing 
@@ -21,4 +21,14 @@ of the class term, and I will reevaluate and add points as it improves.
 I suggest you follow this example and decompose what is currently in `AssignmentOne.java`
 into multiple files, with one class per file, as Java requires!
 
+-----------------
+# Feedback from November 28
 
+**Score as of Nov 28, 2021:** 70/75
+
+* Code compiles!!  Good job!! 
+  * Fixed all compilation errors: +30 points
+  
+* Analysis of the sorting algorithms is pretty good.  Not as thorough as it could be, 
+  but you're clearly understanding the concepts.
+  * Improved analysis of the sorting algorithms: +10 points
